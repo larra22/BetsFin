@@ -1,0 +1,92 @@
+
+(domain.Event#equals(Ljava/lang/Object;)ZS
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java® ®("startingBlock*∑
+2S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java±
+ ±("]
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java± ±(
+""*¥
+3S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaØ Ø(ê
+ç
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaØ Ø(
+otherdomain.Event"__id*
+
+objjava.lang.Objectö
+ó
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java∞ ∞(
+%2java.lang.Integer"__id*!*
+domain.Event"
+eventNumber°
+û
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java∞ ∞(&
+%3java.lang.Integer"__id*(*&
+
+otherdomain.Event"
+eventNumber*
+2
+1*ô
+startingBlockS
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java® ®("ù
+ö
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaß ß(
+
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Objectá
+Ñ
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java® ®(!
+objjava.lang.Object"__annotation*
+
+%4*	
+5
+6
+8*∑
+4S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaÆ
+ Æ("]
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaÆ Æ(
+""*Â
+5S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java≠ ≠(ª∏
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java≠ ≠(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Event2
+getClass()ƒ¡
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java≠ ≠("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+3
+4*∑
+6S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java¨
+ ¨("]
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java¨ ¨(
+""*∑
+8S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java™
+ ™("]
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java™ ™(
+""*∑
+1S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java≤	 ≤("]
+S
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java≤ ≤(
+"":
+objjava.lang.ObjectB
+domain.Event

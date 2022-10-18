@@ -1,0 +1,7 @@
+gui.SeleccionGUI#Seleccion(LUsuario;)V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+java.awt.Rectangle#instance-init#
+javax.swing.JPanel#<init>()V
+java.awt.Rectangle#<init>(IIII)V
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#

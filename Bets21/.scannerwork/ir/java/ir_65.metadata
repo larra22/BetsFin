@@ -1,0 +1,15 @@
+gui.Registro#Registro_unidad()V
+javax.swing.JPasswordField#<init>()V
+javax.swing.JPanel#<init>()V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+java.awt.Rectangle#<init>(IIII)V
+javax.swing.JPasswordField#instance-init#
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+javax.swing.JTextField#instance-init#
+javax.swing.JTextField#<init>()V
+java.awt.Rectangle#instance-init#
+javax.swing.JLabel#instance-init#
+javax.swing.JButton#instance-init#

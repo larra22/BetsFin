@@ -1,0 +1,50 @@
+
+kbusinessLogic.BLFacadeImplementation#contratarSubdito(Ljava/lang/String;Ljava/lang/String;)Ldomain/Subdito;k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaæ æ( "startingBlock*”
+startingBlockk
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaæ  æ(Gø
+º
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaΩ Ω(
+
+%0"
+__annotate*
+java.lang.Override*#
+!
+nombreUsuariojava.lang.String©
+¶
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaæ( æ(5!
+nombreUsuariojava.lang.String"__annotation*
+
+%0∫
+∑
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaΩ Ω(
+
+%1"
+__annotate*
+java.lang.Override*
+
+passwordjava.lang.String§
+°
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaæ> æ(F
+passwordjava.lang.String"__annotation*
+
+%1*
+1*ç
+1k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaø ø(ì
+ê
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.java¡ ¡(B
+sdomain.Subdito"__id*
+"""Ñ
+k
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.java≈ ≈(
+
+sdomain.Subdito:!
+nombreUsuariojava.lang.String:
+passwordjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

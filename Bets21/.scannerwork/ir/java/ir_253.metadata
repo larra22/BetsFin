@@ -1,0 +1,3 @@
+gui.AdminGUI#btnNewButton_4_actionPerformed(Ljava/awt/event/ActionEvent;)V
+gui.CreatePronosticoGUI#<init>()V
+gui.CreatePronosticoGUI#instance-init#

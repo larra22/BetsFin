@@ -1,0 +1,1 @@
+businessLogic.BLFacadeImplementation#guardarMensaje(LUsuario;Ljava/lang/String;Ljava/util/Date;)LMensaje;

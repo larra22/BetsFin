@@ -1,0 +1,5 @@
+dataAccess.DataAccess#open(Z)V
+javax.persistence.Persistence#createEntityManagerFactory(Ljava/lang/String;Ljava/util/Map;)Ljavax/persistence/EntityManagerFactory;
+javax.persistence.Persistence#createEntityManagerFactory(Ljava/lang/String;)Ljavax/persistence/EntityManagerFactory;
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#

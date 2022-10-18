@@ -1,0 +1,2 @@
+dataAccess.DataAccess#anadirApuesta(Ljava/lang/String;ILUsuario;LPronostico;FLEvent;)LApuesta;
+java.lang.String#equals(Ljava/lang/Object;)Z

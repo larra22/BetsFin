@@ -1,0 +1,7 @@
+gui.ApostarGUI#Apostar(LUsuario;Ldomain/Seleccion;)V
+java.awt.Dimension#<init>(II)V
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+javax.swing.table.DefaultTableModel#<init>([[Ljava/lang/Object;[Ljava/lang/Object;)V
+java.awt.Dimension#instance-init#
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+javax.swing.table.DefaultTableModel#instance-init#

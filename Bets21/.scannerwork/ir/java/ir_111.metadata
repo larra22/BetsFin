@@ -1,0 +1,13 @@
+gui.LoginGUI#Login_unidad()V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JPasswordField#<init>()V
+javax.swing.JTextField#instance-init#
+javax.swing.JTextField#<init>()V
+java.awt.Rectangle#instance-init#
+javax.swing.JPanel#<init>()V
+java.awt.Rectangle#<init>(IIII)V
+javax.swing.JPasswordField#instance-init#
+java.awt.Font#<init>(Ljava/lang/String;II)V
+javax.swing.border.EmptyBorder#instance-init#
+java.awt.Font#instance-init#
+javax.swing.JPanel#instance-init#

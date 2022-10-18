@@ -1,0 +1,2 @@
+dataAccess.DataAccess#actualizarEstadistica(I)LEstadistica;
+dataAccess.DataAccess#extractEstadistica(LEstadistica;LUsuario;LUsuario;Ljava/util/Vector;Ljava/util/Vector;)V

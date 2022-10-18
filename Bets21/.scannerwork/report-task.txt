@@ -1,0 +1,7 @@
+organization=larrans22
+projectKey=bets2002
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.33400
+dashboardUrl=https://sonarcloud.io/dashboard?id=bets2002
+ceTaskId=AYPTl910kkljXkm0Y_ME
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYPTl910kkljXkm0Y_ME

@@ -1,0 +1,13 @@
+gui.EstadisticaGUI#Estadistica()V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+java.lang.String#valueOf([C)Ljava/lang/String;
+java.lang.String#valueOf(I)Ljava/lang/String;
+java.util.Date#<init>()V
+javax.swing.JPanel#<init>()V
+javax.swing.JLabel#instance-init#
+java.awt.Font#<init>(Ljava/lang/String;II)V
+javax.swing.border.EmptyBorder#instance-init#
+java.awt.Font#instance-init#
+java.util.Date#instance-init#
+javax.swing.JPanel#instance-init#

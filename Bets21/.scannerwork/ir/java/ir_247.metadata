@@ -1,0 +1,5 @@
+gui.AdminGUI#Admin()V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JPanel#<init>()V
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#

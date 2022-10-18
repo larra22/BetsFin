@@ -1,0 +1,3 @@
+gui.AdminGUI#jButtonBlock_actionPerformed(Ljava/awt/event/ActionEvent;)V
+gui.BloquearGUI#<init>()V
+gui.BloquearGUI#instance-init#

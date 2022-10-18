@@ -1,0 +1,4 @@
+gui.TrabajadoresGUI#btnNewButton_1_actionPerformed(Ljava/awt/event/ActionEvent;)V
+java.util.Vector#<init>()V
+gui.CreateQuestionGUI#<init>(Ljava/util/Vector;)V
+gui.CreateQuestionGUI#instance-init#

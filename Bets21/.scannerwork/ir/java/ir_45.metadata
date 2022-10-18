@@ -1,0 +1,2 @@
+dataAccess.DataAccess#filtrarPorUsuario(Ljava/lang/String;)Ljava/util/Vector;
+java.util.Vector#<init>()V

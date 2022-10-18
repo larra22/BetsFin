@@ -1,0 +1,3 @@
+domain.Admin#getInstance()Ldomain/Admin;
+domain.Admin#<init>()V
+domain.Admin#instance-init#

@@ -1,0 +1,2 @@
+domain.Event#addApuesta(LUsuario;LPronostico;F)LApuesta;
+null

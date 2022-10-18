@@ -1,0 +1,81 @@
+
+,dataAccess.DataAccess#conseguirGanancias(I)F\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaó ó( "1*¡
+1\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaô ô(Š
+‡
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaô ô(
+%0java.io.PrintStream"__id*
+""€ı
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaô ô(9
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*%#
+!>> DataAccess: conseguirGanancias2println(Ljava/lang/String;)±
+®
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaö ö(%
+%2javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+db›
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaö ö()
+%3#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*'
+%
+%2javax.persistence.EntityManager2getTransaction()ÑÎ
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaö ö(
+
+%4void",javax.persistence.EntityTransaction#begin()V*+
+)
+%3#javax.persistence.EntityTransaction2begin()±
+®
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaø" ø($%
+%5javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbëè
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaø" ù(
+%6"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+%
+%5javax.persistence.EntityManager*/-
++SELECT e FROM Estadistica e WHERE e.year=?1*
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)Š
+‡
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaÿ ÿ(
+%7java.io.PrintStream"__id*
+""¿¼
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaÿ ÿ(
+
+%8void"java.io.PrintStream#println(F)V*
+
+%7java.io.PrintStream*
+""2
+println(F)±
+®
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.java€ €(%
+%9javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbŸœ
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.java€ €(*
+%10#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*'
+%
+%9javax.persistence.EntityManager2getTransaction()ÕÒ
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.java€ €(
+%11void"-javax.persistence.EntityTransaction#commit()V*,
+*
+%10#javax.persistence.EntityTransaction2commit()"f
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.java (
+"":
+""B
+dataAccess.DataAccess

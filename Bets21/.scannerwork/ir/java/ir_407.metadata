@@ -1,0 +1,10 @@
+gui.ForoGUI#Foro(Ldomain/Usuario;)V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+java.awt.Label#<init>(Ljava/lang/String;)V
+java.awt.Label#instance-init#
+javax.swing.JTextField#instance-init#
+javax.swing.JTextField#<init>()V
+gui.ForoGUI#enviarChat(LMensaje;)V
+javax.swing.JPanel#<init>()V
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#

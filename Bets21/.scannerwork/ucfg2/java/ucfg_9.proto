@@ -1,0 +1,22 @@
+
+*dataAccess.DataAccess#getNumberOfEvents()I\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaå å("1*Õ
+1\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaæ æ(±
+®
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaæ æ(%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbÕÒ
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaæ æ(P
+%1"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+%
+%0javax.persistence.EntityManager*
+SELECT e FROM Event e*
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)"f
+\
+PC:/Users/porta/eclipse-workspace/Bets21/src/main/java/dataAccess/DataAccess.javaè è(
+""B
+dataAccess.DataAccess

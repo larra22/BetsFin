@@ -1,0 +1,33 @@
+
+WbusinessLogic.BLFacadeImplementation#getEventsMonth(Ljava/util/Date;)Ljava/util/Vector;i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaw w(#"startingBlock*Ê
+startingBlocki
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaw# w(.©
+¦
+i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javav v(
+%0"
+__annotate*
+	WebMethod*
+
+datejava.util.Dateœ
+™
+i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javaw) w(-
+datejava.util.Date"__annotation*
+
+%0*
+1*“
+1i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javax x(—
+”
+i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.javay y(6
+datesjava.util.Vector"__id*
+"""ˆ
+i
+_C:/Users/porta/eclipse-workspace/Bets21/src/main/java/businessLogic/BLFacadeImplementation.java{ {(
+
+datesjava.util.Vector:
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementation

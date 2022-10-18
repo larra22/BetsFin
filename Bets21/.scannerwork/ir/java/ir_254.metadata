@@ -1,0 +1,3 @@
+gui.AdminGUI#jButtonEstadisticas_actionPerformed(Ljava/awt/event/ActionEvent;)V
+gui.EstadisticaGUI#instance-init#
+gui.EstadisticaGUI#<init>()V

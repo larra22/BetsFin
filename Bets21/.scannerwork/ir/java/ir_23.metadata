@@ -1,0 +1,4 @@
+dataAccess.DataAccess#anadirResultado(LQuestion;LPronostico;)Ljava/lang/String;
+null
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;

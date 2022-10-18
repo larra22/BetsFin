@@ -1,0 +1,2 @@
+dataAccess.DataAccess#getEventsEspecified(Ljava/util/Date;LSeleccion;)Ljava/util/Vector;
+java.util.Vector#<init>()V

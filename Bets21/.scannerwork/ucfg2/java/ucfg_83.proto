@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaP P("1*Ÿ
+1Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaQ	 Q(ì
+ê
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaQ	 Q(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"k
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaQ Q(
+
+%0java.util.DateB
+domain.Event

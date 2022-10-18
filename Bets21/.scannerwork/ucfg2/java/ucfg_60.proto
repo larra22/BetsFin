@@ -1,0 +1,34 @@
+
+>domain.Mensaje#fechaBonita(Ljava/util/Date;)Ljava/lang/String;S
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.java{ {("1*Ä
+1S
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.java~4 ~(Kñì
+S
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.java~# ~(3 
+%0java.text.SimpleDateFormat"java.text.SimpleDateFormat’
+“
+S
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.java~ ~(L
+%1"6java.text.SimpleDateFormat#<init>(Ljava/lang/String;)V*"
+ 
+%0java.text.SimpleDateFormat*
+dd/MM/yyyy - HH:mm:ss´
+®
+S
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.java~ ~(M'
+	formatterjava.text.SimpleDateFormat"__id*"
+ 
+%0java.text.SimpleDateFormatìê
+U
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.javaÅ	 Å( 
+%2java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*)
+'
+	formatterjava.text.SimpleDateFormat*
+
+fechajava.util.Date2format(Ljava/util/Date;)"q
+U
+IC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Mensaje.javaÅ Å(!
+
+%2java.lang.String:
+fechajava.util.DateB
+domain.Mensaje

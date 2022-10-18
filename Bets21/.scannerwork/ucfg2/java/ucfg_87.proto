@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.java` `("1*Æ
+1Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa	 a(˜
+•
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa	 a(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumberš
+—
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa	 a(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;—
+”
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa a((
+%2java.lang.String"__id*!*
+domain.Event"
+description¬
+©
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa	 a((
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"m
+Q
+GC:/Users/porta/eclipse-workspace/Bets21/src/main/java/domain/Event.javaa a()
+
+%3java.lang.StringB
+domain.Event

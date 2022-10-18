@@ -1,0 +1,7 @@
+gui.UsuarioGUI#Usuario(Ldomain/Usuario;)V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JPanel#<init>()V
+javax.swing.ImageIcon#<init>(Ljava/lang/String;)V
+javax.swing.ImageIcon#instance-init#
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#

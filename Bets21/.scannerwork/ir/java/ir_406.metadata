@@ -1,0 +1,13 @@
+gui.ForoGUI#instance-init#
+javax.swing.JTextArea#<init>()V
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+javax.swing.JTextPane#instance-init#
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.JTextArea#instance-init#
+javax.swing.JLabel#instance-init#
+javax.swing.JScrollPane#instance-init#
+javax.swing.text.SimpleAttributeSet#instance-init#
+javax.swing.JTextPane#<init>()V
+javax.swing.JButton#instance-init#
+javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V
+javax.swing.text.SimpleAttributeSet#<init>()V

@@ -1,0 +1,2 @@
+domain.Usuario#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;Ljava/lang/String;I)V
+java.util.concurrent.ThreadLocalRandom#current()Ljava/util/concurrent/ThreadLocalRandom;
